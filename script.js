@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cat: 'Database / Cloud',
       title: 'Oracle Certified Foundations Associate',
       issuer: 'Oracle University',
-      img: 'assets/certificates/cert-oracle.png',
+      img: 'cert-oracle.png',
       details: [
         ['Program', 'Oracle Data Platform 2025 Certified Foundations Associate'],
         ['Date', 'June 5, 2026'],
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cat: 'Programming',
       title: 'Computer Programming',
       issuer: 'NeoColab (iamNeo, an NIIT Venture)',
-      img: 'assets/certificates/cert-neocolab.png',
+      img: 'cert-neocolab.png',
       details: [
         ['Duration', '150 Hours (Jan 18 – May 20, 2026)'],
         ['Issued', 'May 21, 2026'],
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cat: 'Python',
       title: 'Introduction to Python',
       issuer: 'Infosys Springboard',
-      img: 'assets/certificates/cert-python-intro.png',
+      img: 'cert-python-intro.png',
       details: [
         ['Completed', 'June 16, 2026'],
         ['Issued', 'July 20, 2026']
@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cat: 'Python',
       title: 'Programming Fundamentals using Python – Part 1',
       issuer: 'Infosys Springboard',
-      img: 'assets/certificates/cert-python-fundamentals.png',
+      img: 'cert-python-fundamentals.png',
       details: [
         ['Completed / Issued', 'July 20, 2026']
       ],
@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cat: 'AI / Cyber Security',
       title: 'Introduction to Cyber Security',
       issuer: 'Infosys Springboard',
-      img: 'assets/certificates/cert-cybersecurity.png',
+      img: 'cert-cybersecurity.png',
       details: [
         ['Completed / Issued', 'March 25, 2026']
       ],
@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cat: 'Other',
       title: 'ESL001: Elementary English as a Second Language',
       issuer: 'Saylor Academy',
-      img: 'assets/certificates/cert-esl-saylor.png',
+      img: 'cert-esl-saylor.png',
       details: [
         ['Issue Date', 'April 26, 2026'],
         ['Certificate ID', '0914417415DS']
